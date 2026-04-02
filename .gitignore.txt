@@ -1,0 +1,5 @@
+dataset/
+chest_xray/
+*.pth
+__pycache__/
+*.pyc

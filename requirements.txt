@@ -1,0 +1,11 @@
+# Federated Learning Core ML Requirements
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Server / API Dependencies
+fastapi>=0.100.0
+uvicorn>=0.23.0
+python-multipart>=0.0.6
+
+# Client / Distributed Communication
+requests>=2.31.0
